@@ -1,0 +1,17 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyterlab
+ipykernel
+python-dotenv
+requests
+pydantic
+fastapi
+uvicorn
+torch
+openai
+langchain
+langchain-openai
+langgraph
