@@ -1,6 +1,7 @@
 numpy
 pandas
 groq
+google-genai
 python-dotenv
 scikit-learn
 matplotlib
