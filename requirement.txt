@@ -1,5 +1,7 @@
 numpy
 pandas
+groq
+python-dotenv
 scikit-learn
 matplotlib
 seaborn
