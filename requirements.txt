@@ -16,6 +16,8 @@ streamlit
 
 langchain==1.4.6
 langchain-core
+langchain-community
+
 groq==0.37.1
 langchain-groq==1.1.3
 
